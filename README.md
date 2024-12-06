@@ -7,5 +7,5 @@
 
 - 💬 Ask me about JavaScript, Node.js and TypeScript
   
-- 📫 How to reach me: https://www.linkedin.com/in/kessler-rodrigues/
+- 📫 How to reach me: www.linkedin.com/in/kessler-rodrigues-0904b4224
 
